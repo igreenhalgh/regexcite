@@ -37,7 +37,7 @@ devtools::install_github("igreenhalgh/regexcite")
 Alternatively, if using the `pacman` package, you can use:
 
 ``` r
-pacman::p_load_gh("igreenhalgh/regexcite)
+pacman::p_load_gh("igreenhalgh/regexcite")
 ```
 
 ## Usage
