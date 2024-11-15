@@ -28,6 +28,12 @@ You can install the development version of regexcite from
 devtools::install_github("igreenhalgh/regexcite")
 ```
 
+Alternatively, if using the `pacman` package, you can use:
+
+``` r
+pacman::p_load_gh("igreenhalgh/regexcite)
+```
+
 ## Usage
 
 A fairly common task when dealing with strings is the need to split a
